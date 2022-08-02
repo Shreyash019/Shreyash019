@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shreyash019
+- 👋 Hi, I’m @Shreyash
 - 👀 I’m interested in Python, Java, Node.js and coding.
 - 🌱 I’m currently learning Node.js and Backend Development
 - 💞️ I’m looking to collaborate on Develpoment Projects
