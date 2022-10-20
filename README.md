@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Shreyash
-- 👀 I’m interested in Python, Java, Node.js and coding.
-- 🌱 I’m currently learning Node.js and Backend Development
-- 💞️ I’m looking to collaborate on Develpoment Projects
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Shreyash Kumar.
+- 👀 I’m interested in Coding and Full Stack Web Development.
+- 🌱 I’m currently learning MERN stack.
+- 💞️ I’m looking to collaborate on MERN stack projects.
+- 📫 I'm available at https://www.linkedin.com/in/shreyash-kumar-51sk998p1/
 
 <!---
 Shreyash019/Shreyash019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
