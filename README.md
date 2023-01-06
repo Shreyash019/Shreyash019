@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shreyash Kumar.
 - 👀 I’m interested in Coding and Full Stack Web Development.
 - 🌱 I’m currently learning MERN stack.
-- 💞️ I’m looking to collaborate on MERN stack projects.
 - 📫 I'm available at https://www.linkedin.com/in/shreyash-kumar-51sk998p1/
 
 <!---
