@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Shreyash Kumar.
-- 👀 I’m interested in Coding and Full Stack Web Development.
-- 📫 I'm available at https://www.linkedin.com/in/shreyash-kumar-51sk998p1/
+Hi there I'm Shreyash from UP, India. I moved to kanpur to join PSIT College of Engineering to study Computer Science & Engineering. Currently I am working in TCS. I worked on backend development and currenlty involved in learing frontend development to grow as full stack developer. Apart from this I love coding, exploring new languages, expolring new places and spending time on youtube.
 
-<!---
-Shreyash019/Shreyash019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can also find me on https://www.linkedin.com/in/shreyash-kumar-51sk998p1/
