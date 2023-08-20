@@ -1,3 +1,4 @@
-Hi there I'm Shreyash from UP, India. I moved to kanpur to join PSIT College of Engineering to study Computer Science & Engineering. Currently I am working in TCS. I worked on backend development and currenlty involved in learing frontend development to grow as full stack developer. Apart from this I love coding, exploring new languages, expolring new places and spending time on youtube.
+Hi there I'm Shreyash from Azamgarh UP, India. I moved to Kanpur to join PSIT College of Engineering to study Computer Science & Engineering. 
+I am Software Engineer. Currently, I am growing as a full-stack developer. Apart from this, I love to do only 3 things in a day eat sleep, and code.
 
-You can also find me on https://www.linkedin.com/in/shreyash-51sk998p1
+You can also find me at https://www.linkedin.com/in/shreyash-51sk998p1
