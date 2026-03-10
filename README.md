@@ -7,62 +7,48 @@ Full Stack Developer • Backend Architecture • AI Automation
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Distributed+Systems+Engineer;AI+Automation+Builder;Microservices+Architecture+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Distributed+Systems+Engineer;AI+Automation+Builder;Microservices+Architecture+Enthusiast"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 💼 Software Developer focused on **scalable backend systems**
-- ⚙️ Working on **Microservices Architecture Migration**
-- 🤖 Building **AI-powered developer automation tools**
-- 🧠 Interested in **Distributed Systems, AI Agents, DevOps**
+- 💼 Software Developer focused on **Backend Architecture**
+- ⚙️ Working on **Microservices Migration**
+- 🤖 Building **AI-powered automation systems**
+- 🧠 Exploring **AI Agents & Distributed Systems**
 - 🌐 Portfolio: **https://shreyashkumar.in**
 
 ---
 
 # 🚀 Featured Projects
 
-### 🤖 AI Email Responder
-AI system that classifies incoming emails and generates responses automatically.
-
-**Tech:**  
-Node.js • OpenAI • Vector DB • Automation
-
----
-
-### 🧠 Personal AI Coding Assistant
-VSCode integrated AI assistant to summarize programming topics.
-
-**Tech:**  
-LLM • RAG • Node.js
-
----
-
-### 🧩 Microservices Migration Platform
-Migration of Laravel monolith to scalable microservices architecture.
-
-**Tech:**  
-Node.js • Golang • Redis • Event Driven Architecture
+| Project | Description | Tech |
+|-------|-------------|------|
+| **AI Email Responder** | AI system that classifies incoming emails and generates automated responses | Node.js, OpenAI |
+| **VSCode AI Coding Assistant** | Local AI agent that summarizes programming topics | RAG, Node.js |
+| **Microservices Migration Platform** | Migrating Laravel monolith into scalable services | Node.js, Golang, Redis |
 
 ---
 
 # 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,mongodb,redis,docker,go,python,git,github,linux,nginx" />
+
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,mongodb,redis,docker,go,python,git,github,linux,nginx"/>
+
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats (Dynamic)
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shreyash019&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shreyash019&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyash019&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyash019&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -72,13 +58,13 @@ Node.js • Golang • Redis • Event Driven Architecture
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyash019&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyash019&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Activity Graph
 
 <p align="center">
 
@@ -88,11 +74,31 @@ Node.js • Golang • Redis • Event Driven Architecture
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shreyash019&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Shreyash019&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+
+</p>
+
+---
+
+# 📊 Dev Metrics (Advanced Dynamic Stats)
+
+<p align="center">
+
+<img src="https://metrics.lecoq.io/Shreyash019?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&config.timezone=Asia%2FKolkata"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Shreyash019&style=for-the-badge&color=blue"/>
 
 </p>
 
@@ -103,7 +109,7 @@ Node.js • Golang • Redis • Event Driven Architecture
 <p align="center">
 
 <a href="https://shreyashkumar.in">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shreyash-51sk998p1">
@@ -114,26 +120,8 @@ Node.js • Golang • Redis • Event Driven Architecture
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/>
 </a>
 
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
 </p>
 
 ---
 
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Shreyash019&label=Profile%20Views&color=blue&style=for-the-badge"/>
-
-</p>
-
----
-
-# ⚡ Fun Fact
-
-I enjoy designing **high-performance backend architectures** and building **AI tools that automate developer workflows.**
-
----
+⭐️ From [Shreyash Kumar](https://github.com/Shreyash019)
