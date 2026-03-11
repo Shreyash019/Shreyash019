@@ -20,15 +20,6 @@ Full Stack Developer • Backend Architecture • AI Automation
 - 🧠 Exploring **AI Agents & Distributed Systems**
 - 🌐 Portfolio: **https://shreyashkumar.in**
 
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Tech |
-|-------|-------------|------|
-| **AI Email Responder** | AI system that classifies incoming emails and generates automated responses | Node.js, OpenAI |
-| **VSCode AI Coding Assistant** | Local AI agent that summarizes programming topics | RAG, Node.js |
-| **Microservices Migration Platform** | Migrating Laravel monolith into scalable services | Node.js, Golang, Redis |
 
 ---
 
