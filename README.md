@@ -65,26 +65,6 @@ Full Stack Developer • Backend Architecture • AI Automation
 
 ---
 
-# 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shreyash019&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
-
-</p>
-
----
-
-# 📊 Dev Metrics (Advanced Dynamic Stats)
-
-<p align="center">
-
-<img src="https://metrics.lecoq.io/Shreyash019?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&config.timezone=Asia%2FKolkata"/>
-
-</p>
-
----
-
 # 👀 Profile Views
 
 <p align="center">
